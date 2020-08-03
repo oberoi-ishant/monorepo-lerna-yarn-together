@@ -1,4 +1,4 @@
-# learn with yarn
+# lerna with yarn
 
 ## https://medium.com/@jsilvax/a-workflow-guide-for-lerna-with-yarn-workspaces-60f97481149d
 
