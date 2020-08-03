@@ -1,0 +1,12 @@
+{
+  "name": "@my-monorepo-scope/my-design-system-core",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "log": "echo \"Hi from Core package\""
+  },
+  "dependencies": {
+    "eslint": "^7.6.0"
+  }
+}
