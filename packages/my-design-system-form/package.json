@@ -1,13 +1,13 @@
 {
   "name": "@my-monorepo-scope/my-design-system-form",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "log": "echo \"Hi from Form package\""
   },
   "dependencies": {
-    "@my-monorepo-scope/my-design-system-button": "^1.0.0",
+    "@my-monorepo-scope/my-design-system-button": "^1.0.1",
     "@my-monorepo-scope/my-design-system-core": "^1.0.0",
     "eslint": "^7.6.0"
   }
