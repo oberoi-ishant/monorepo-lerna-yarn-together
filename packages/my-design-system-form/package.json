@@ -6,9 +6,15 @@
   "scripts": {
     "log": "echo \"Hi from Form package\""
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oberoi-ishant/monorepo-lerna-yarn-together.git",
+    "directory": "packages/my-design-system-form"
+  },
   "dependencies": {
     "@my-monorepo-scope/my-design-system-button": "^1.0.1",
     "@my-monorepo-scope/my-design-system-core": "^1.0.0",
     "eslint": "^7.6.0"
-  }
+  },
+  "gitHead": "ea9a0a495dcb667cce6655661e8fd2e6bdefb2d1"
 }

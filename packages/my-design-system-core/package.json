@@ -6,6 +6,11 @@
   "scripts": {
     "log": "echo \"Hi from Core package\""
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oberoi-ishant/monorepo-lerna-yarn-together.git",
+    "directory": "packages/my-design-system-core"
+  },
   "dependencies": {
     "eslint": "^7.6.0"
   }
